@@ -134,7 +134,7 @@ namespace merge
 
 
 
-            program.MergePresentationsSlides("ppt","\file1.pptx","ppt","\file2.pptx");
+            program.MergePresentationsSlides(@"ppt","\file1.pptx",@"ppt","\file2.pptx");
 
 
 
