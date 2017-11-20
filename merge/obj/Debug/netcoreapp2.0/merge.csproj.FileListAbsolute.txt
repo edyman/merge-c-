@@ -1,0 +1,11 @@
+/Users/edison/Projects/merge/merge/bin/Debug/netcoreapp2.0/merge.deps.json
+/Users/edison/Projects/merge/merge/bin/Debug/netcoreapp2.0/merge.runtimeconfig.json
+/Users/edison/Projects/merge/merge/bin/Debug/netcoreapp2.0/merge.runtimeconfig.dev.json
+/Users/edison/Projects/merge/merge/bin/Debug/netcoreapp2.0/merge.dll
+/Users/edison/Projects/merge/merge/bin/Debug/netcoreapp2.0/merge.pdb
+/Users/edison/Projects/merge/merge/obj/Debug/netcoreapp2.0/merge.csprojResolveAssemblyReference.cache
+/Users/edison/Projects/merge/merge/obj/Debug/netcoreapp2.0/merge.csproj.CoreCompileInputs.cache
+/Users/edison/Projects/merge/merge/obj/Debug/netcoreapp2.0/merge.AssemblyInfoInputs.cache
+/Users/edison/Projects/merge/merge/obj/Debug/netcoreapp2.0/merge.AssemblyInfo.cs
+/Users/edison/Projects/merge/merge/obj/Debug/netcoreapp2.0/merge.dll
+/Users/edison/Projects/merge/merge/obj/Debug/netcoreapp2.0/merge.pdb
